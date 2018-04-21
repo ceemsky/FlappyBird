@@ -1,0 +1,10 @@
+﻿  WallHolder.cpp
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\variables.h(10): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\variables.h(11): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\variables.h(12): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\variables.h(16): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\variables.h(21): warning C4091: "static ": zignorowano na lewo od "Variables" podczas gdy brak deklaracji zmiennej
+c:\users\czern\source\repos\sfmltemplate\sfmltemplate\wallholder.cpp(54): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Pomijanie... (nie wykryto odpowiednich zmian)
+  Źródło.cpp
+  sfmlTemplate.vcxproj -> C:\Users\czern\source\repos\sfmlTemplate\x64\Debug\sfmlTemplate.exe
